@@ -1,0 +1,2 @@
+deb     http://ltb-project.org/debian/wheezy wheezy main
+deb-src http://ltb-project.org/debian/wheezy wheezy main
